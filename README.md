@@ -36,32 +36,8 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 </p>
 
-### 🧰 Tools I use
-
-<a href="https://code.visualstudio.com/">
- <img src="https://skills.thijs.gg/icons?i=vscode" alt="DanielKBV's GitHub Tools I use" />
-</a>
-<a href="https://www.figma.com/ui-design-tool/">
- <img src="https://skills.thijs.gg/icons?i=figma" alt="DanielKBV's GitHub Tools I use" />
-</a>
-<a href="https://firebase.google.com/">
- <img src="https://skills.thijs.gg/icons?i=firebase" alt="DanielKBV's GitHub Tools I use" />
-</a>
-
 <h2>My GitHub Stats</h2>
 <!-- <br /> -->
-
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/DanielKBV"><img src="https://github-readme-stats.vercel.app/api?username=DanielKBV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielKBV's GitHub stats" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/DanielKBV" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKBV&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    </td>
-  </tr>
-</table>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielKBV&theme=github_dark)
 
