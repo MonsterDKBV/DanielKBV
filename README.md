@@ -13,70 +13,37 @@
 </p>
 <!-- ------------------------------------------ -->
 
-В настоящее время я оттачиваю свои навыки веб-разработки и расширяю свои знания в области HTML, CSS, JavaScript и React.js.
-<br />
-Мне нравится погружаться в проекты кодирования и изучать новые методы для создания захватывающих веб-приложений.
+<p align="center"> Разрабатываю современные веб-приложения на React, Next.js и TypeScript. <br /> Сейчас расширяю свои навыки в сторону Full-Stack разработки. </p>
 
-* ✉️  You can contact me at [danielkyrgyz200715@gmail.com](mailto:danielkyrgyz200715@gmail.com)
-* 🧠  I'm learning React, JavaScript, TypeScript
+<p align="center"> <a href="https://github.com/DanielKBV">GitHub</a> · <a href="mailto:danielkyrgyz200715@gmail.com">Email</a> </p>
 
+Обо мне
 
+Я веб-разработчик, специализирующийся на создании современных и удобных веб-приложений.
 
-### 🪄 Technologies I use
+В коммерческой разработке работаю более 2 лет. За это время занимался разработкой различных типов проектов: от небольших лендингов и корпоративных сайтов до интернет-магазинов, административных панелей и сложных веб-приложений.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-</p>
+Мне важно не просто написать код, а сделать решение понятным, поддерживаемым и удобным для дальнейшего развития.
 
-### 🧰 Tools I use
+Сейчас мой основной фокус — Frontend-разработка и постепенный переход к полноценной Full-Stack разработке.
 
-<a href="https://code.visualstudio.com/">
- <img src="https://skills.thijs.gg/icons?i=vscode" alt="DanielKBV's GitHub Tools I use" />
-</a>
-<a href="https://www.figma.com/ui-design-tool/">
- <img src="https://skills.thijs.gg/icons?i=figma" alt="DanielKBV's GitHub Tools I use" />
-</a>
-<a href="https://firebase.google.com/">
- <img src="https://skills.thijs.gg/icons?i=firebase" alt="DanielKBV's GitHub Tools I use" />
-</a>
+Что я умею
+Разрабатывать интерфейсы на React и Next.js
+Писать типизированный и поддерживаемый код на TypeScript
+Создавать адаптивные интерфейсы
+Работать с REST API и интегрировать внешние сервисы
+Управлять состоянием приложения с помощью Redux Toolkit
+Работать с CMS и системами управления контентом
+Разрабатывать интернет-магазины и каталоги
+Создавать административные панели и Dashboard-интерфейсы
+Настраивать базовую SEO-оптимизацию и аналитику
+Работать с Git и GitHub
+Развивать backend-часть приложений на Node.js
+Технологии
+Frontend
 
-<h2>My GitHub Stats</h2>
-<!-- <br /> -->
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css" alt="Frontend technologies" /> </p>
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/DanielKBV"><img src="https://github-readme-stats.vercel.app/api?username=DanielKBV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielKBV's GitHub stats" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/DanielKBV" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKBV&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    </td>
-  </tr>
-</table>
+Инструменты
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielKBV&theme=github_dark)
-
-<table>
-  <tr>
-    <td>
-     <p>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielKBV&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
-     </p>
-    </td>
-    <td>
-     <p>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielKBV&theme=github_dark" alt="github-profile-summary-cards.vercel.app" />
-     </p>
-    </td>
-  </tr>
-</table>
- 
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman" alt="Development tools" /> </p>
